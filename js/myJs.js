@@ -1,11 +1,11 @@
 const textConfig = {
   text1: "Chào Như xinh đẹp!",
-  text2: "Bách có điều này muốn hỏi Như nhớ phải trả lời thật lòng đó à nha.",
-  text3: "Như có thích Bách không nào ._.",
+  text2: "Bách có điều này muốn hỏi Như, Như nhớ phải trả lời thật lòng đó à nha.",
+  text3: "Như có thích Bách không nè? ._.",
   text4: " Nếu Như không trả lời mà thoát ra tức là đồng ý rùi đó nha :v",
   text5: "Bách đang mơ à",
   text6: "CÓ <3",
-  text7: "Lí do Như thích Bách là gì đi :vvvv",
+  text7: "Lí do Như thích Bách là gì đó? :vvvv",
   text8: "Gửi cho Bách <3",
   text9: "Vì Bách đẹp troai lém",
   text10: "Bách biết mà ^^ thích Như x100 nè",
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Như gõ chữ trả lời ở đây nhen'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Như trả lời ở ô này nhen'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
