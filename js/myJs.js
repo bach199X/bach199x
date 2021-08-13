@@ -11,7 +11,7 @@ const textConfig = {
   text10: "Bách biết mà ^^ ui thích Như thêm 100 lần nè",
   text11:
     "Chúc Quỳnh Như sinh nhật vui vẻ và thành công như trong công việc nhé, Bách chờ nhen",
-  text12: "Oke <3",
+  text12: "Oke ☘",
 };
 
 $(document).ready(function () {
@@ -47,7 +47,7 @@ $(document).ready(function () {
 
   // switch button position
   function switchButton() {
-    var audio = new Audio("sound/duck.mp3");
+    var audio = new Audio("sound/Swish1.mp3");
     audio.play();
     var leftNo = $("#no").css("left");
     var topNO = $("#no").css("top");
@@ -60,7 +60,7 @@ $(document).ready(function () {
   }
   // move random button póition
   function moveButton() {
-    var audio = new Audio("sound/Swish1.mp3");
+    var audio = new Audio("sound/2222.mp3");
     audio.play();
     if (screen.width <= 600) {
       var x = Math.random() * 300;
