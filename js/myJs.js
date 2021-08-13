@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "Chào Như xinh đẹp!",
-  text2: "Bách có điều này muốn hỏi Như, Như nhớ phải trả lời thật lòng đó à nha.",
+  text1: "Chào Như🌹 cô gái đáng yêu!",
+  text2: "Bách có điều này muốn hỏi Như, Như nhớ phải trả lời thật lòng đó nha.",
   text3: "Như có thích Bách không nè? ._.",
   text4: " Nếu Như không trả lời mà thoát ra tức là đồng ý rùi đó nha :v",
   text5: "Bách đang nằm mơ à",
   text6: "CÓ 🌼",
   text7: "Lí do Như thích Bách là gì đó? 😇 😇",
-  text8: "Gửi cho Bách <3",
+  text8: "Gửi cho Bách 💟",
   text9: "Vì Bách đẹp troai lém",
   text10: "Bách biết mà ^^ ui thích Như thêm 100 lần nè",
   text11:
     "Chúc Quỳnh Như sinh nhật vui vẻ và thành công như trong công việc nhé, Bách chờ nhen",
-  text12: "Oke ☘",
+  text12: "Oke , đồ 🐷 ",
 };
 
 $(document).ready(function () {
@@ -60,7 +60,7 @@ $(document).ready(function () {
   }
   // move random button póition
   function moveButton() {
-    var audio = new Audio("sound/2222.mp3");
+    var audio = new Audio("sound/3333.mp3");
     audio.play();
     if (screen.width <= 600) {
       var x = Math.random() * 300;
