@@ -5,10 +5,10 @@ const textConfig = {
   text4: " Nếu Như không trả lời mà thoát ra tức là đồng ý rùi đó nha 😉",
   text5: "Bách đang nằm mơ à",
   text6: "CÓ 🌼",
-  text7: "Lí do Như thích Bách là gì đó? 😇 😇",
+  text7: "Lí do Như thích Bách là gì đó? 🐶🐷",
   text8: "Gửi cho Bách 💌",
   text9: "Vì Bách đẹp troai lém",
-  text10: "Bách biết mà ^^ ui thích Như thêm 100 lần nè",
+  text10: "Bách biết mà ^^ ui vậy thích Như thêm 100 lần nè",
   text11:
     "Chúc Quỳnh Như sinh nhật vui vẻ và thành công như trong công việc nhé, Bách chờ nhen",
   text12: "Oke , đồ 🐷 ",
@@ -37,7 +37,7 @@ $(document).ready(function () {
       text: textConfig.text2,
       imageUrl: "img/cuteCat.jpg",
       imageWidth: 300,
-      imageHeight: 300,
+      imageHeight: 400,
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Custom image",
     }).then(function () {
