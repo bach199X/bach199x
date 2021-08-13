@@ -3,12 +3,12 @@ const textConfig = {
   text2: "Bách có điều này muốn hỏi Như, Như nhớ phải trả lời thật lòng đó à nha.",
   text3: "Như có thích Bách không nè? ._.",
   text4: " Nếu Như không trả lời mà thoát ra tức là đồng ý rùi đó nha :v",
-  text5: "Bách đang mơ à",
-  text6: "CÓ <3",
+  text5: "Bách đang nằm mơ à",
+  text6: "CÓ 🌼",
   text7: "Lí do Như thích Bách là gì đó? 😇 😇",
   text8: "Gửi cho Bách <3",
   text9: "Vì Bách đẹp troai lém",
-  text10: "Bách biết mà ^^ thích Như x100 nè",
+  text10: "Bách biết mà ^^ ui thích Như thêm 100 lần nè",
   text11:
     "Chúc Quỳnh Như sinh nhật vui vẻ và thành công như trong công việc nhé, Bách chờ nhen",
   text12: "Oke <3",
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Như trả lời ở ô này nhen'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Như trả lời ở đây nhen'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "bach199x.github.io";
           },
         });
       }
