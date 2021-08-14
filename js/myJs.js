@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Vì Bách đẹp troai lém",
   text10: "Bách biết mà 😄 vậy thích Như thêm 100 lần nè",
   text11:
-    "Bách thật sự rất vui khi biết Như. Cảm ơn Như đã đến! Hôm nay là sinh nhật Như,Chúc Như sinh nhật vui vẻ và thành công như trong công việc nhé, Bách xin lỗi vì không cùng Như thổi nến, Nhất định lần sau, Bách bù nhé",
+    "Bách thật sự rất vui khi biết Như. Cảm ơn Như đã đến! Hôm nay là sinh nhật Như,Chúc Như sinh nhật vui vẻ và thành công trong công việc nhé, Bách xin lỗi vì không cùng Như thổi nến 🎂, Nhất định lần sau, Bách bù nhé",
   text12: "Oke , đồ 🐷 ",
 };
 
