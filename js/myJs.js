@@ -8,7 +8,7 @@ const textConfig = {
   text7: "Lí do Như thích Bách là gì đó? 🐶🐷",
   text8: "Gửi cho Bách 💌",
   text9: "Vì Bách đẹp troai lém",
-  text10: "Bách biết mà ^^ ui vậy thích Như thêm 100 lần nè",
+  text10: "Bách biết mà 😄 vậy thích Như thêm 100 lần nè",
   text11:
     "Chúc Quỳnh Như sinh nhật vui vẻ và thành công như trong công việc nhé, Bách chờ nhen",
   text12: "Oke , đồ 🐷 ",
@@ -60,7 +60,7 @@ $(document).ready(function () {
   }
   // move random button póition
   function moveButton() {
-    var audio = new Audio("sound/3333.mp3");
+    var audio = new Audio("sound/amthanh1.mp3");
     audio.play();
     if (screen.width <= 600) {
       var x = Math.random() * 300;
