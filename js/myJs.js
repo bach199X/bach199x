@@ -35,7 +35,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/cuteCat.jpg",
+      imageUrl: "img/heo.jpg",
       imageWidth: 300,
       imageHeight: 400,
       background: '#fff url("img/iput-bg.jpg")',
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Như trả lời ở đây nhen'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='em trả lời ở đây nhen'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
