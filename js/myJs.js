@@ -36,7 +36,7 @@ $(document).ready(function () {
       title: textConfig.text1,
       text: textConfig.text2,
       imageUrl: "img/hiep.jpg",
-      imageWidth: 226,
+      imageWidth: 230,
       imageHeight: 380,
       background: '#fff url("img/iput-bg.jpg")',
       imageAlt: "Custom image",
