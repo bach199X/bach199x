@@ -7,7 +7,7 @@ const textConfig = {
   text6: "EM ĐỒNG Ý 🌼",
   text7: "Lí do em yêu anh là gì đó? 🐶🐷",
   text8: "Gửi cho anh 💌",
-  text9: "Vì Bách đẹp troai lém",
+  text9: "Vì Bách đẹp trai lém",
   text10: "anh biết mà 😄 anh thích em từ lần gặp đầu tiên ấy",
   text11:
     "Anh thật sự rất vui khi biết em. Cảm ơn em đã đến! Cuộc đời anh như sóng mây bay lượn, em như mặt trời soi sáng lối anh đi",
